@@ -1,9 +1,9 @@
-var popupconfirm = confirm("Jika Menggunakan Web HandPhone , Miringkan Layar HP Anda Biar Tampilan Full dan Rapi")
+var popupconfirm = confirm("Di Simak ya sayang sampe selesai:)")
 if(popupconfirm === true)
 {
-       alert("Abaikan JIka Menggunakan Browser Laptop/Computer");
+       alert("Maaf yaa sayang kalau ada kata yg typo hehe");
 }
 else{
-       alert("Maaf Jika Tampilan tidak Sempurna");
+       alert("Pokoknya dibaca sampe akhir!");
 
 }
